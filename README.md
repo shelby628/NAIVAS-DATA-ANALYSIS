@@ -19,6 +19,9 @@ The shareholders of Naivas supermarket wants toknow the sales report for the who
 4.  The total sales by Item type.
 5.  Identifying Fat content by Outlet for total sales.
 6.  Identifying sales by outlet location.
+7.  
+
+
   
 
 ## How to Use
