@@ -71,7 +71,7 @@ This project provided actionable insights into sales operations and improved res
 ## Author
 **Shelby Adede**  
 - Data Analyst | Machine Learning Enthusiast  
--  shelby@example.com  
+-  shelbyadede@gmail.com  
 
   ##  Future Improvements
 - Add predictive modeling using Scikit-learn  
