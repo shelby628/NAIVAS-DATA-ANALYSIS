@@ -6,7 +6,7 @@
 2. [Data Sources](#data-sources)
 3. [Tools Used](#tools-used)
 4. [Process](#process)
-5. [QUESTIONS (KPI)](#QUESTIONS (KPI)
+5.  [QUESTIONS (KPI)](#QUESTIONS (KPI))
 6. [Key Insights](#key-insights)
 7. [Visualizations](#visualizations)
 8. [How to Run](#how-to-run)
@@ -48,8 +48,16 @@ The shareholders of Naivas supermarket wants to know the sales report for the wh
  
   
   ##Visualisations
-##Dashboard
-<img width="746" height="310" alt="image" src="https://github.com/user-attachments/assets/2bb715bb-b446-4b10-94cd-9f8fa4bb3e4b" />
+##Dashboard overview
+<img width="617" height="334" alt="image" src="https://github.com/user-attachments/assets/011f0e7b-de74-4beb-8118-576df43c3af2" />
+
+##small outlet size
+<img width="637" height="333" alt="image" src="https://github.com/user-attachments/assets/4265a1b6-5b9d-4c86-8487-18ff260a128e" />
+##<img width="668" height="362" alt="image" src="https://github.com/user-attachments/assets/c6e313cc-bb66-4821-b68d-e26c6a07208b" />
+
+
+
+
 
 ##  How to Run
 1. Clone this repository  
